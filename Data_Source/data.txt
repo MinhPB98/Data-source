@@ -1,0 +1,1 @@
+{"people": [{"id": 10912, "fn": "Ali", "lname": "Mahmood"}, {"id": 32332, "fn": "Vickle", "lname": "Vardy"}], "goods": {"shoes": "trainers", "tops": "coats"}, "color": "red", "style": {"id": 101, "make": "addidas"}}
